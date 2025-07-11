@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ali</h1>
-<h3 align="center">A passionate Python developer from Iran 🇮🇷</h3>
+<h3 align="center">A passionate Python developer</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Python GIF" />
