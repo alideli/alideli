@@ -29,27 +29,9 @@
 
 Some of my favorite GitHub projects:
 
-- [🧠 Sentiment Analysis](https://github.com/alideli/sentiment-analysis)  
-- [📊 Data Analysis with Pandas](https://github.com/alideli/data-analysis)  
-- [🎨 Image to Sketch Converter](https://github.com/alideli/image-to-sketch)
-
-> *(Replace links above with your actual repos if different)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alideli&show_icons=true&theme=radical" alt="Ali's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alideli&theme=radical" alt="Ali's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alideli&layout=compact&theme=radical" alt="Top languages" />
-</p>
+- [📁 CLI File Manager](https://github.com/alideli/CLI-File-Manager) — A simple and efficient command-line file management tool built with Python.  
+- [✂️ Rock Paper Scissors Game](https://github.com/alideli/Rock-Paper-Scissors) — Classic game implemented in Python with a fun interactive console interface.  
+- [🧮 Calculator](https://github.com/alideli/Calculator) — A Python-based calculator supporting basic arithmetic operations.
 
 ---
 
