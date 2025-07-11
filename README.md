@@ -9,8 +9,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on some open-source Python projects  
-- 🌱 I’m learning frameworks like **Flask** and **Django**  
+- 🔭 I’m currently working on some open-source Python projects    
 - 💬 Ask me about Python, automation, or data analysis  
 - 📫 Reach me at: **delgarm10@gmail.com**
 
