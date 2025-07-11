@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from Iran 🇮🇷</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Python animation" />
+  <img src="[https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Python animation](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)" />
 </p>
 
 ---
