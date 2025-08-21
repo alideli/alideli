@@ -31,7 +31,7 @@
 Some of my favorite GitHub projects:
 
 - [📁 CLI File Manager](https://github.com/alideli/CLI-File-Manager) — A simple and efficient command-line file management tool built with Python.  
-- [✂️ Rock Paper Scissors Game](https://github.com/alideli/Rock-Paper-Scissors) — Classic game implemented in Python with a fun interactive console interface.  
+- [➕➖✖️➗ Iphone_Calculator](https://github.com/alideli/Iphone-Calculator) — Simple Calculator designed like iphone's calculator.  
 - [🧮 Calculator](https://github.com/alideli/Calculator) — A Python-based calculator supporting basic arithmetic operations.
 
 ---
