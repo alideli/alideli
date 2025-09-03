@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Python & Java developer</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="Python GIF" />
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Java GIF" />
+  <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" height="200" alt="Python GIF" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Java GIF" />
 </p>
 
 ---
