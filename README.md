@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🔭 I’m currently working on some open-source Python projects    
 - 💬 Ask me about Python, Java, automation, or data analysis  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 Some of my favorite GitHub projects:
 
@@ -37,15 +37,7 @@ Some of my favorite GitHub projects:
 
 ---
 
-## ⚡ Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-</p>
-
----
-
-## 🎧 Fun Facts
+##  Fun Facts
 
 - I love listening to music while coding  
 - I’m a night owl developer 🦉  
