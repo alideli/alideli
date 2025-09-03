@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ali</h1>
-<h3 align="center">A passionate Python developer</h3>
+<h3 align="center">A passionate Python & Java developer</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Python GIF" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Java GIF" />
 </p>
 
 ---
@@ -10,10 +11,11 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently working on some open-source Python projects    
-- 💬 Ask me about Python, automation, or data analysis  
+- 💬 Ask me about Python, Java, automation, or data analysis  
 - 📫 Reach me at: **delgarm10@gmail.com**
 
 ---
+
 
 ## 🛠️ Skills
 
